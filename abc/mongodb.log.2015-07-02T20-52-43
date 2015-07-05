@@ -1,0 +1,4 @@
+2015-07-03T02:15:03.982+0530 I CONTROL  Hotfix KB2731284 or later update is not installed, will zero-out data files
+2015-07-03T02:15:03.982+0530 I CONTROL  Trying to install Windows service 'MongoDB'
+2015-07-03T02:15:04.375+0530 I CONTROL  Service 'MongoDB' (MongoDB) installed with command line '"C:\Program Files\MongoDB\Server\3.0\bin\mongod.exe" --config C:\Users\abhimanyu\Downloads\nodejs\abc\mongodb.conf.txt --service'
+2015-07-03T02:15:04.375+0530 I CONTROL  Service can be started from the command line with 'net start MongoDB'

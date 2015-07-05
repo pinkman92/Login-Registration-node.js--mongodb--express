@@ -1,0 +1,18 @@
+2015-07-03T02:10:52.004+0530 I CONTROL  Hotfix KB2731284 or later update is not installed, will zero-out data files
+2015-07-03T02:10:52.018+0530 I JOURNAL  [initandlisten] journal dir=C:\Users\abhimanyu\Downloads\nodejs\abc\data\journal
+2015-07-03T02:10:52.020+0530 I JOURNAL  [initandlisten] recover : no journal files present, no recovery needed
+2015-07-03T02:10:52.146+0530 I JOURNAL  [durability] Durability thread started
+2015-07-03T02:10:52.147+0530 I JOURNAL  [journal writer] Journal writer thread started
+2015-07-03T02:10:52.149+0530 I CONTROL  [initandlisten] MongoDB starting : pid=17872 port=27017 dbpath=C:\Users\abhimanyu\Downloads\nodejs\abc\data 64-bit host=abhimanyu-HP
+2015-07-03T02:10:52.149+0530 I CONTROL  [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2015-07-03T02:10:52.149+0530 I CONTROL  [initandlisten] db version v3.0.4
+2015-07-03T02:10:52.150+0530 I CONTROL  [initandlisten] git version: 0481c958daeb2969800511e7475dc66986fa9ed5
+2015-07-03T02:10:52.150+0530 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.1m-fips 19 Mar 2015
+2015-07-03T02:10:52.150+0530 I CONTROL  [initandlisten] build info: windows sys.getwindowsversion(major=6, minor=1, build=7601, platform=2, service_pack='Service Pack 1') BOOST_LIB_VERSION=1_49
+2015-07-03T02:10:52.150+0530 I CONTROL  [initandlisten] allocator: tcmalloc
+2015-07-03T02:10:52.150+0530 I CONTROL  [initandlisten] options: { config: "C:\Users\abhimanyu\Downloads\nodejs\abc\mongodb.conf.txt", net: { port: 27017 }, storage: { dbPath: "C:\Users\abhimanyu\Downloads\nodejs\abc\data" }, systemLog: { destination: "file", path: "C:\Users\abhimanyu\Downloads\nodejs\abc\mongodb.log" } }
+2015-07-03T02:10:52.152+0530 I INDEX    [initandlisten] allocating new ns file C:\Users\abhimanyu\Downloads\nodejs\abc\data\local.ns, filling with zeroes...
+2015-07-03T02:10:52.540+0530 I STORAGE  [FileAllocator] allocating new datafile C:\Users\abhimanyu\Downloads\nodejs\abc\data\local.0, filling with zeroes...
+2015-07-03T02:10:52.540+0530 I STORAGE  [FileAllocator] creating directory C:\Users\abhimanyu\Downloads\nodejs\abc\data\_tmp
+2015-07-03T02:10:52.785+0530 I STORAGE  [FileAllocator] done allocating datafile C:\Users\abhimanyu\Downloads\nodejs\abc\data\local.0, size: 64MB,  took 0.242 secs
+2015-07-03T02:10:52.799+0530 I NETWORK  [initandlisten] waiting for connections on port 27017

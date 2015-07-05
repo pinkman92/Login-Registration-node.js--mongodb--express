@@ -1,0 +1,3 @@
+dbpath = C:\Users\abhimanyu\Downloads\nodejs\abc\data
+port = 27017
+logpath = C:\Users\abhimanyu\Downloads\nodejs\abc\mongodb.log
